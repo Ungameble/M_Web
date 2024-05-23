@@ -1,0 +1,182 @@
+.Main-button {
+    background-color: rgb(0, 74, 78);
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-right: 17px;
+    padding-left: 17px;
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: color 0.15s,
+        opacity 0.15s;
+    font-weight: bold;
+    display: flex;
+    margin-left: 10px;
+    color: white;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.Main-button:hover {
+    color: black;
+}
+
+.Main-button:active {
+    opacity: 0.6;
+}
+
+.title-p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: auto;
+    margin-left: 30px;
+    color: white;
+}
+
+.tab {
+    background-color: rgb(0, 74, 78);
+    display: flex;
+    border-radius: 4px;
+    justify-content: left;
+    align-items: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.tab a {
+    text-decoration: none;
+}
+
+
+.support-button {
+    background-color: rgb(0, 74, 78);
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-right: 17px;
+    padding-left: 17px;
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: color 0.15s,
+        opacity 0.15s;
+    font-weight: bold;
+    display: flex;
+    cursor: pointer;
+    color: white;
+    margin-right: 10px;
+}
+
+.support-button:hover {
+    color: black;
+    
+}
+.support-button:active {
+    opacity: 0.6;
+}
+
+
+.gs {
+    background-color: rgb(255, 198, 92);
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 11px;
+    padding-left: 11px;
+    border-radius: 18px;
+    border-style: solid;
+    border-color: rgb(214, 167, 79);
+    border-width: 1px;
+    transition: border-width 0.15s,
+        border-color 0.15s,
+            background-color 0.15s;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.gs:hover {
+    border-color: rgb(214, 167, 79);
+    border-width: 3px;
+}
+
+.gs:active {
+    background-color: rgb(195, 151, 70);
+}
+
+.home-div a {
+    text-decoration: none;
+}
+
+.html-service {
+    background-color: rgb(255, 0, 0);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-radius: 4px;
+    float: left;
+}
+
+.home-div {
+    background-color: rgb(0, 74, 78);
+    padding-top: auto;
+    padding-bottom: 150px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.home-headline {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.tab-p {
+    background-color: rgb(0, 74, 78);
+    padding-top: auto;
+    padding-bottom: 150px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.p {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: large;
+}
+
+.tab-t {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: x-large;
+    color: white;
+    text-align: center;
+
+}
+
+.ab-div {
+    background-color: rgb(0, 74, 78);
+    padding-top: auto;
+    padding-bottom: 150px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.ab-p {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: x-large;
+}
+
